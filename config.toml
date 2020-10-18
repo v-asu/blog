@@ -99,7 +99,7 @@ canonifyurls = true
   identifier = "cv"
   name = "CV"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
-  url = "/cv_vasu.pdf"
+  url = "/vasu_resume.pdf"
   
   
 
